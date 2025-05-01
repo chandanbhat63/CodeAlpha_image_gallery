@@ -21,7 +21,7 @@ JavaScript – Dynamic image interactions and lightbox functionality
 📸 Preview
 
 🔗 Live Demo
-
+https://github.com/chandanbhat63/CodeAlpha_image_gallery
 
 📁 How to Use
 Clone the repo:
